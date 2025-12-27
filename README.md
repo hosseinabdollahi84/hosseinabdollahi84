@@ -4,7 +4,7 @@
 
 <h2>Hi, I'm Hossein 👋</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FFE0&center=true&vCenter=true&width=520&lines=Flutter+Developer+in+Progress;Dart+%26+Mobile+Development;Building+apps+every+day;Dark+Mode+%2B+Neon+Vibes" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FFE0&center=true&vCenter=true&width=520&lines=Flutter+Developer;Mobile+App+Development;Learning+Flutter+and+Dart;Building+apps+every+day" />
 
 </div>
 
@@ -38,6 +38,6 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
 </div>
