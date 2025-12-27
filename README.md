@@ -1,21 +1,24 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</div>
 
-<h1 align="center">Hey there, I'm Hossein 👋</h1>
-<h3 align="center">⚡ Flutter Developer in Progress | Dark Mode Lover ⚡</h3>
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180"/>
+
+<h2>Hi, I'm Hossein 👋</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FFE0&center=true&vCenter=true&width=520&lines=Flutter+Developer+in+Progress;Dart+%26+Mobile+Development;Building+apps+every+day;Dark+Mode+%2B+Neon+Vibes" />
+
+</div>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Building **Flutter apps** one widget at a time  
-- 🌱 Currently learning **Dart** & clean mobile architecture  
-- 💬 Ask me about Flutter, widgets, or mobile dev life  
-- ⚡ Fun fact: Thought **Dart** was a game… now it’s my weapon 😎  
+- 🔭 Learning Flutter by building real apps  
+- 🌱 Exploring Dart & mobile development  
+- 💬 Ask me about Flutter  
+- ⚡ Fun fact: Thought Dart was a game 😅  
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Socials
 <p align="center">
   <a href="https://discord.gg/hossein_pg">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -29,14 +32,12 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-0ff?style=for-the-badge&logo=flutter&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-00cfff?style=for-the-badge&logo=dart&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-ff4d00?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github&theme=dark" />
 </p>
 
 ---
 
 <div align="center">
-✨ <i>Code in silence. Let the neon glow speak.</i> ✨
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" height="150"/>
 </div>
