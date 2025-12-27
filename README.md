@@ -35,9 +35,4 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,git,github&theme=dark" />
 </p>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-</div>
