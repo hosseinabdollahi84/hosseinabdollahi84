@@ -4,16 +4,23 @@
 
 <h2>Hi, I'm Hossein 👋</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FFE0&center=true&vCenter=true&width=520&lines=Flutter+Developer;Mobile+App+Development;Learning+Flutter+and+Dart;Building+apps+every+day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FFE0&center=true&vCenter=true&width=620&lines=Flutter+Developer;Building+cool+mobile+apps;Clean+Architecture+%2B+BLoC;Automation+with+n8n;Always+learning+%26+shipping+%F0%9F%9A%80" />
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hosseinpg&label=Profile%20Views&color=00FFE0&style=flat" />
+</p>
 
 </div>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Learning Flutter by building real apps  
-- 🌱 Exploring Dart & mobile development  
-- 💬 Ask me about Flutter  
+- 📱 Flutter Developer who loves building **clean & smooth** mobile apps  
+- 🧠 Interested in **performance**, UI details, and scalable architecture  
+- ⚙️ I enjoy automating things with **n8n**  
+- 💬 Ask me about Flutter, Dart, BLoC  
 - ⚡ Fun fact: Thought Dart was a game 😅  
 
 ---
@@ -32,7 +39,9 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,firebase&theme=dark" />
 </p>
 
-
+<p align="center">
+  <img height="38" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" />
+</p>
