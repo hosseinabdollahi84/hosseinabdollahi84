@@ -48,3 +48,37 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📈 Crypto Trading Assistant (Private Project)
+
+A mobile application for analyzing cryptocurrency markets and generating trading signals.
+
+The app scans market charts in real time using custom analysis algorithms that detect trends, support and resistance zones, and common candlestick patterns.
+
+In addition to traditional technical analysis, the project experiments with **AI and machine learning models** to analyze historical market behavior and identify potential trading opportunities. It also considers **large transaction activity (often associated with whales)** and market liquidity patterns to better understand market momentum.
+
+The goal of the app is to help traders monitor the market more efficiently through **real‑time charts, signal alerts, and a clean mobile interface** that makes it easier to review potential trades.
+
+> Note: This is a **private project**, so the source code is not publicly available.
+
+---
+
+### 📱 App Interface
+
+<p align="center">
+<img src="./image/1.jpg" width="210"/>
+<img src="./image/2.jpg" width="210"/>
+<img src="./image/4.jpg" width="210"/>
+</p>
+
+---
+
+### 💰 Sample Signal Results
+
+<p align="center">
+<img src="./image/3.jpg" width="260"/>
+<img src="./image/5.png" width="230"/>
+</p>
+
