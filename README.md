@@ -18,20 +18,20 @@
 
 ### 🚀 About Me
 - 📱 I specialize in building **high-performance, cross-platform mobile applications** using **Flutter** and **Dart**.
-- 🏛️ Passionate about software design, actively applying **Clean Architecture** and **SOLID principles** to build scalable and maintainable codebases.
-- ⚙️ Experienced in workflow automation using **n8n** to streamline development processes and boost productivity.
-- 🤝 Always eager to learn, tackle complex problems, and collaborate with international teams.
+- 🏛️ Passionate about software design, actively applying **Clean Architecture** and **SOLID principles**.
+- ⚙️ Automating workflows using **n8n** + AI tools to speed up development.
+- 🤖 Building projects with help of **AI prompting** and modern development assistants.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Mobile Development:**<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-
-**Backend, Cloud & Automation:**<br/>
-<img src="https://skillicons.dev/icons?i=firebase,git,github&theme=dark" />
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" style="height: 48px; vertical-align: top; margin-left: 5px;" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,html,css,js,react,python,nodejs&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/AI%20Tools-000000?style=for-the-badge&logo=openai&logoColor=white" height="40" />
+</p>
 
 ---
 
