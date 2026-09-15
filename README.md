@@ -41,7 +41,7 @@
   <a href="https://discord.gg/hossein_pg">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/hoss.einabdollahi">
+  <a href="https://instagram.com/hossein._dev">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="mailto:hosseinabdol369@gmail.com">
